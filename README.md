@@ -2,12 +2,12 @@
 <h3 align="center">Focusing to be a DEV</h3>
  <div>
   <a href="https://github.com/Fhenriqueoliveira">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ThiAlves02&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiAlves02&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Fhenriqueoliveira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fhenriqueoliveira&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="GIF" height="200" width="250" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Bvmml6BO--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2spvnepyxjwyv1geq7mh.gif">
+  <img align="right" alt="GIF" height="200" width="250" src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif">
 </div>
   
   ##
